@@ -2,5 +2,5 @@
 session_start();
 session_unset();
 session_destroy();
-header('location: index.php?var=Hello bhai');
+header('location: index.php?var=Hello dear darling');
 ?>
